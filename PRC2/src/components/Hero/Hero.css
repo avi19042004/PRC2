@@ -1,0 +1,72 @@
+.hero{
+    width: 100%;
+    display: flex;
+    height: auto;
+}
+
+.herobackground img{
+    width: 1535px;
+    height: 625px;
+    z-index: -1;
+}
+
+.hero-content-background{
+    position: relative;
+    background: #FFF3E3;
+    width: 643px;
+    height: 443px;
+    top: 80px;
+    right: 680px;
+}
+
+.hero-content{
+    position: relative;
+    width: 643px;
+    height: 344px;
+    top: 62px;
+    left: 39px;
+}
+
+.new-arrival{
+    position: relative;
+    width: 123px;
+    height: 24px;
+    left: 2px;
+    color: #333333;
+}
+
+.new-collection{
+    position: relative;
+    width: 440px;
+    height: 127px;
+    left: 2px;
+    top: 5px;
+    font-size: 52px;
+    font-weight: 700;
+    color: #B88E2F;
+}
+
+.hero-extra{
+    position: relative;
+    width: 546px;
+    height: 52px;
+    left: 2px;
+    top: 45px;
+    color: #333333;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.buy-btn{
+    display: flex;
+    position: relative;
+    width: 150px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    background: #B88E2F;
+    top: 80px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+

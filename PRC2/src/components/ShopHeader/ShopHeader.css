@@ -1,0 +1,51 @@
+.shopheader img{
+    width: 100%;
+}
+
+.shop-header-info{
+    position: relative;
+    width: 124px;
+    height: 96px;
+    top: -250px;
+    left: 658px;
+}
+
+.Shop-area{
+    font-size: 48px;
+    line-height: 72px;
+    font-weight: 500;
+}
+
+.shop-location{
+    position: relative;
+    display: flex;
+    gap: 5px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    top: -50px;
+}
+
+.shoplocation-home{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.shoplocation-img{
+    position: relative;
+    top: 2px;
+    left: 5px;
+    /* width: 20px;
+    height: 20px; */
+}
+
+.shoplocation-shop{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    position: relative;
+    left: 6px;
+}

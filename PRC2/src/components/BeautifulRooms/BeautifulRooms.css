@@ -1,0 +1,186 @@
+.beautifulrooms{
+    margin-top: 150px;
+    background: #FCF8F3;
+    display: flex;
+    height: 670px;
+    overflow: hidden;
+}
+
+.beautifulrooms-left{
+    width: 422px;
+    margin-left: 100px;
+    margin-top: 173px;
+}
+
+.beautifulrooms-left-content-header{
+    width: 422px;
+    height: 96px;
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+    color: #3A3A3A;
+}
+
+.beautifulrooms-left-content-main{
+    width: 368px;
+    height: 48px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #616161;
+}
+
+.beautifulrooms-left-ExplorMore{
+    width: 176px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #B88E2F;
+    text-decoration: none;
+}
+
+.beautifulrooms-left-ExplorMore p{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #FFFFFF;
+    
+}
+
+.beautifulrooms-right{
+    margin-left: 42px;
+    display: flex;
+}
+
+.beautifulrooms-img1 img{
+    width: 404px;
+    height: 582px;
+    margin-top: 44px;
+}
+
+.beautifulrooms-img2{
+    height: 486px;
+    width: 372px;
+    margin-left: 24px;
+    margin-top: 44px;
+}
+
+.beautifulrooms-img3{
+    width: 372px;
+    height: 486px;
+    margin-top: 44px;
+    margin-left: 24px;
+    image-rendering: auto;
+    
+}
+
+.beautifulrooms-img1-text{
+    width: 217px;
+    height: 130px;
+    background: rgba(255, 255, 255, 0.72);
+    position: relative;
+    bottom: 160px;
+    left: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.badroom{
+    display: flex;
+    margin-right: 30px;
+}
+
+.badroom span{
+    margin-top: 27px;
+    margin-left: 8px;
+    width: 27px;
+    height: 1px;
+    background: rgba(97, 97, 97, 1);
+}
+
+.zero1{
+    width: 16px;
+    height: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: rgba(97, 97, 97, 1);
+    margin-left: 8px;
+}
+
+.zero3{
+    width: 83px;
+    height: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: rgba(97, 97, 97, 1);
+    margin-left: 8px;
+}
+
+.beautifulrooms-img1-inner{
+    width: 168px;
+    height: 34px;
+    font-size: 28px;
+    font-weight: 600;
+    font-weight: 600;
+    color: rgba(58, 58, 58, 1);
+    position: relative;
+    bottom: 40px;
+}
+
+.beautifulrooms-img1-arrow{
+    width: 48px;
+    height: 48px;
+    position: relative;
+    bottom: 208px;
+    left: 241px;
+    background: rgba(184, 142, 47, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.beautifulrooms-img1-arrow img{
+    width: 24px;
+    height: 24px;
+    margin-bottom: 40px;
+}
+
+.circle{
+    width: 120px;
+    height: 27px;
+    position: relative;
+    top: 570px;
+    left: -768px;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cir-1, .cir-2, .cir-3, .cir-4{
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background: rgba(216, 216, 216, 1);
+}
+
+.cir{
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    border: 1px solid rgba(184, 142, 47, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cir-1{
+    background: rgba(184, 142, 47, 1);
+}

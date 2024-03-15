@@ -1,0 +1,61 @@
+.navbar{
+    position: relative;
+    top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    left: 9px;
+    height: 80px;
+}
+
+.navbar-logo{
+    width: 275PX;
+    display: flex;
+    padding-top: 30px;
+}
+
+.navbar-logo img{
+    position: relative;
+    top: 10px;
+    width: 50px;
+    height: 32px;
+}
+
+.navbar-logo p{
+    font-family: "Montserrat", sans-serif;
+    position: relative;
+    bottom: 30px;
+    font-weight: 700;
+    font-size: 34px;
+}
+
+.navbar-link{
+    position: relative;
+    width: 430PX;
+    display: flex;
+    justify-content: space-evenly;
+    bottom: 23px;
+    right: 50px;
+    padding-top: 20px;
+}
+
+.home-link, .shop-link, .about-link, .contect-link{
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.navbar-cart{
+    position: relative;
+    right: 100px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    bottom: 20px;
+    padding-top: 20px;
+}
+
+.link{
+    text-decoration: none;
+    color: #000000;
+}
